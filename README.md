@@ -43,7 +43,7 @@ Originally built as an experimental web game.
 ---
 
 ### **Plong — Tutorial Game**
-**Tech:** Godot 4
+**Tech:** Godot 4        
 A simplified Pong-style project built for teaching the basics of Godot scripting and scene structure.
 
 ---
