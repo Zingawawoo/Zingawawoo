@@ -1,4 +1,4 @@
-# Hi, I'm Abdulaziz 👋
+# Hi, I'm Aziz
 
 **Computer Science undergraduate — University of Bristol**  
 **Co-Founder & Co-President — Game Development & Design Society (GDD)**  
@@ -8,24 +8,27 @@ Most of my work involves making GDD society related projects, systems, and tools
 
 ---
 
-## 🚀 Featured Projects
+## Stuff I'm working on
 
-### **📌 GDD_Web**  
-Real-time website for the Game Development & Design Society, including chat + internal tools.  
+### **GDD_Web**  
+Real-time website for the Game Development & Design Society, with a few games in the mix.  
 
-### **📌 GDD_Repo**  
+### **GDD_Repo**  
 Workshop material + documentation for the GDD Society.  
 
-### **📌 Divine_Departure**  
-A 2D RPG built during a game jam with collaborative gameplay + UI work.  
+### **Git Identity Switcher**  
+This is a small tool I made to switch between ssh and github configurations without having to use a script or sshing. I think the github application does this already but idk.
 
-### **📌 Catalogue**  
-Prototype for a browser-based guessing game.  
+### **Divine_Departure**  
+A 2D RPG built during a game jam. Stuck in the backlog of development hell currently.  
 
-### **📌 Zingawawoo**  
+### **Catalogue**  
+Prototype for a browser-based guessing game. Used as a case study for myself and practice rather than as an actual project now.  
+
+### **Zingawawoo**  
 Personal sandbox repo for experiments and testing.
 
-### **📌 portfolio**  
+### **Portfolio**  
 Source code for my personal website / portfolio.
 
 ---
